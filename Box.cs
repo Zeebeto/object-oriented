@@ -12,7 +12,9 @@ namespace object_oriented
 
         internal void show()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("height = " + Height);
+            Console.WriteLine("width = " + Width);
+
         }
 
         
